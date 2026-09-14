@@ -333,7 +333,7 @@ talk more about that complication later — but just know that since such confli
 ways to help you resolve conflicts without too much difficulty.
 
 To get your first experience with `git pull`, you can make a quick change to one of the files in your Fizz Buzz repository
-on GitHub.
+on GitHub. hello pull this right here
 
 - [ ] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
 right side of the screen, you should see an edit button (with a pencil on it). Click that and make a small edit to
